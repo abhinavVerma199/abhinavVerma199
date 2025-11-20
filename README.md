@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **vabhinav251@gmail.com**
 
-- ⚡ <h2>A Quote </h2>  <h5> " Dealing with failure is easy: work hard to improve " </h5?
+- ⚡ <h2>A Quote </h2>  <h5> " Dealing with failure is easy: work hard to improve " 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
